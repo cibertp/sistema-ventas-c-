@@ -1,0 +1,14 @@
+C:\Users\melan\Desktop\SisVentas\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\melan\Desktop\SisVentas\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\melan\Desktop\SisVentas\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\melan\Desktop\SisVentas\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\melan\Desktop\SisVentas\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\melan\Desktop\SisVentas\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\melan\Desktop\SisVentas\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\melan\Desktop\SisVentas2\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\melan\Desktop\SisVentas2\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\melan\Desktop\SisVentas2\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\melan\Desktop\SisVentas2\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\melan\Desktop\SisVentas2\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\melan\Desktop\SisVentas2\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\melan\Desktop\SisVentas2\CapaNegocios\obj\Debug\CapaNegocios.pdb

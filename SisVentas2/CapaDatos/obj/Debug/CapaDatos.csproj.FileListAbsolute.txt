@@ -1,0 +1,10 @@
+C:\Users\melan\Desktop\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\melan\Desktop\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\melan\Desktop\SisVentas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\melan\Desktop\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\melan\Desktop\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\melan\Desktop\SisVentas2\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\melan\Desktop\SisVentas2\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\melan\Desktop\SisVentas2\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\melan\Desktop\SisVentas2\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\melan\Desktop\SisVentas2\CapaDatos\obj\Debug\CapaDatos.pdb
